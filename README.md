@@ -24,8 +24,18 @@ The following python modules are required (in addition to standard python module
   - astropy
   - pandas
 
+
+
+
 ### Authors
 
 * **Baptiste Klein** - Department of Physics, University of Oxford 
 * **Benjalin Charnay** - LESIA, Observatoire de Paris, Meudon, France
 * **Florian Debras** - IRAP, Toulouse, France
+
+
+
+### Acknowledgements
+We warmly thank the organising committee for giving us the opportunity to share this tutorial and for this amazing (Summer) school.
+We also thank the local organising committee for the flawless organisation.
+A special thank to Claire Moutou for sending us the data.
