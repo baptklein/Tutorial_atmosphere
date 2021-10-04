@@ -29,9 +29,9 @@ The following python modules are required (in addition to standard python module
 
 ### Authors
 
-* **Baptiste Klein** - Department of Physics, University of Oxford 
-* **Benjalin Charnay** - LESIA, Observatoire de Paris, Meudon, France
-* **Florian Debras** - IRAP, Toulouse, France
+* **Baptiste Klein** - Department of Physics, University of Oxford; *baptiste.klein@physics.ox.ac.uk*
+* **Benjalin Charnay** - LESIA, Observatoire de Paris, Meudon, France; *benjamin.charnay@obspm.fr*
+* **Florian Debras** - IRAP, Toulouse, France; *florian.debras@irap.omp.eu*
 
 
 
@@ -39,3 +39,6 @@ The following python modules are required (in addition to standard python module
 We warmly thank the organising committee for giving us the opportunity to share this tutorial and for this amazing (Summer) school.
 We also thank the local organising committee for the flawless organisation.
 A special thank to Claire Moutou for sending us the data.
+
+If you have any question, please ask! We will be happy to hear any feedkback you might have (see the email addresses above). Last but not least, have fun!
+
