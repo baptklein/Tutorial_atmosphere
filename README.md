@@ -11,15 +11,17 @@ To run this tutorial on your local machine, please download this code and associ
 ### Prerequisites
 
 The following programs are needed to make the code work:
+
 1 - python3 (code implemented on python3 - any version > 3.5)
+
 2 - jupyter notebook 
-    Installed via pip: pip install jupyterlab
-    or conda. See https://jupyter.org/install for proper installation procedure
-    To run the notebook open a terminal in the github directory containing this tutorial (downloaded)
-    Type 'jupyter notebook' command to run the module. It opens a new window in your browser.
-    Open "Main.ipynb" and start the tutorial.
+
+Installed via pip: pip install jupyterlab or conda. See https://jupyter.org/install for proper installation procedure
+To run the notebook open a terminal in the github directory containing this tutorial (downloaded)
+Type 'jupyter notebook' command to run the module. It opens a new window in your browser.
+Open "Main.ipynb" and start the tutorial.
     
-The following python modules are required (in addition to standard python modules)
+*The following python modules are required (in addition to standard python modules)*
   - scipy
   - astropy
   - pandas
